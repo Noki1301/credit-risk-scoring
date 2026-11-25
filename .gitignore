@@ -1,0 +1,24 @@
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit (Virtual Environment)
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook vaqtinchalik nusxalari
+.ipynb_checkpoints/
+
+# Maxfiy kalitlar va sozlamalar
+.env
+.env.*
+
+# VS Code va operatsion tizim (Windows / macOS) keraksiz fayllari
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
